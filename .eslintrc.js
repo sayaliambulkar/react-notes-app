@@ -7,9 +7,6 @@ module.exports = {
     'google',
     'plugin:react/recommended',
   ],
-  'editor.codeActionsOnSave': {
-    'source.fixAll': true
-  },
   'overrides': [
     {
       'env': {
