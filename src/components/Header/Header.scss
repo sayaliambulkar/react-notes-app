@@ -1,0 +1,14 @@
+@import '../../global-styles.scss';
+
+.header-container {
+      margin: 10px;
+      display: flex;
+      gap: 10px;
+      align-items: center;
+}
+
+.header-title {
+      font-family: 'Nunito', sans-serif;
+      font-size: 22px;
+      color: #5f6368;
+}

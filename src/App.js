@@ -1,3 +1,7 @@
-export default function App() {
-      return null
+import Header from './components/Header/Header'
+
+const App = () => {
+      return <Header></Header>
 }
+
+export default App
